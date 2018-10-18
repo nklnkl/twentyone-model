@@ -10,7 +10,10 @@
     "type": "git",
     "url": "https://github.com/nklnkl/twentyone-model"
   },
-  "author": "",
+  "author": {
+    "name": "Niko Lagman",
+    "url": "http://github.com/nklnkl"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/chai": "^4.1.6",
