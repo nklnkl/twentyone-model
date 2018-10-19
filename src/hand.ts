@@ -1,7 +1,7 @@
-import { Card } from './card';
+import { ICard } from './card';
 
-export { Hand };
+export { IHand };
 
-interface Hand {
-  cards: Array<Card>;
+interface IHand {
+  cards: Array<ICard>;
 }

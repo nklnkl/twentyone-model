@@ -1,6 +1,6 @@
-export { Card };
+export { ICard };
 
-interface Card {
+interface ICard {
   index: number;
   suit: number;
   value: number;

@@ -1,7 +1,7 @@
-import { Card } from './card';
+import { ICard } from './card';
 
-export { Deck };
+export { IDeck };
 
-interface Deck {
-  cards: Array<Card>;
+interface IDeck {
+  cards: Array<ICard>;
 }

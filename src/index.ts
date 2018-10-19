@@ -1,5 +1,5 @@
-import { Card } from './card';
-import { Hand } from './hand';
-import { Deck } from './deck';
+import { ICard } from './card';
+import { IHand } from './hand';
+import { IDeck } from './deck';
 
-export { Card, Hand, Deck };
+export { ICard, IHand, IDeck };
